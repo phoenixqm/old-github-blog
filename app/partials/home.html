@@ -1,4 +1,4 @@
-<div style="margin: 100px">
+<!-- <div style="margin: 100px">
   This is the content
   <m-loading></m-loading>
   <m-no-result></m-no-result>
@@ -10,4 +10,16 @@
     <i class="fa fa-arrows pull-right" data-toggle="m-fullscreen"></i>
     Full Screen test
   </div>
+</div>
+ -->
+
+<m-loading ng-if="!vm.data.blogs"></m-loading>
+<div ng-if="vm.data.blogs" ng-repeat="blog in vm.data.blogs">
+<div style="cursor:pointer"
+     ng-click="Util.redirect('/article/' + blog.number)">
+  <h3 ng-bind="blog.title"></h3>
+  <p class="summary" ng-bind-html="blog.meta.summary"></p>
+  <span ng-bind="blog.created_at | date:'yyyy-MM-dd'"</span>
+</div>
+<hr/>
 </div>

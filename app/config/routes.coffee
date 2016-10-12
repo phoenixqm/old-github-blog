@@ -8,6 +8,14 @@ Config.routes = [
       controller: "HomeCtrl"
   }
   {
+    url: "/"
+    params:
+      name: "home"
+      label: "Home"
+      templateUrl: "partials/home.html"
+      controller: "HomeCtrl"
+  }
+  {
     url: "/about"
     params:
       name: "about"
