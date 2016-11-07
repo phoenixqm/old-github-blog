@@ -1,0 +1,14 @@
+
+
+.navbar-default .navbar-nav > li > a {
+  font-family: arial;
+}
+
+
+#secondary .widget > h3 {
+  font-family: arial;
+}
+
+#doubanlist td {
+    padding: 5px;
+}

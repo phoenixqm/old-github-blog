@@ -1,0 +1,1650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"en",
+				"enable"
+			],
+			[
+				"a",
+				"a_Position"
+			],
+			[
+				"do",
+				"domWindow"
+			],
+			[
+				"U",
+				"URLs"
+			],
+			[
+				"get",
+				"getFilenameURL"
+			],
+			[
+				"ig",
+				"ignorecase"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"ha",
+				"hasNoneChild"
+			],
+			[
+				"ins",
+				"insideGoodTagName"
+			],
+			[
+				"go",
+				"goodTagNames"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"view",
+				"view_height"
+			],
+			[
+				"inner",
+				"innerWidth"
+			],
+			[
+				"wi",
+				"view_width"
+			],
+			[
+				"show",
+				"showPicker"
+			],
+			[
+				"sv",
+				"svgBlocks"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"sto",
+				"stopPropagation"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"new",
+				"new_obj"
+			],
+			[
+				"vi",
+				"view_obj"
+			],
+			[
+				"g",
+				"group"
+			],
+			[
+				"se",
+				"selection"
+			],
+			[
+				"f",
+				"fontmulti"
+			],
+			[
+				"F",
+				"ForceViewEdit"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"h",
+				"head\tTag"
+			],
+			[
+				"Si",
+				"SimNode"
+			],
+			[
+				"Ma",
+				"MaxSize"
+			],
+			[
+				"Out",
+				"OutOfBound"
+			],
+			[
+				"Win",
+				"Winner"
+			],
+			[
+				"I",
+				"Initialize"
+			],
+			[
+				"G",
+				"Graph"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"V",
+				"Vcount"
+			],
+			[
+				"ad",
+				"adjIterator"
+			],
+			[
+				"fire",
+				"fireMouseEvent"
+			],
+			[
+				"par",
+				"parentNode"
+			],
+			[
+				"M",
+				"MH643"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"trans",
+				"trans_XY"
+			],
+			[
+				"ri",
+				"rightVec"
+			],
+			[
+				"A",
+				"AxisAngleToQuaternion"
+			],
+			[
+				"rot",
+				"rotateZ"
+			],
+			[
+				"rotat",
+				"rotateVec"
+			],
+			[
+				"la",
+				"lookatMouseLastX"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"ge",
+				"gestureType"
+			],
+			[
+				"las",
+				"lastGestureType"
+			],
+			[
+				"this",
+				"thisTouchTick"
+			],
+			[
+				"lookat",
+				"lookatMouseUp"
+			],
+			[
+				"zoo",
+				"zoomLock"
+			],
+			[
+				"zo",
+				"zoomLock"
+			],
+			[
+				"le",
+				"leftMoving"
+			],
+			[
+				"left",
+				"leftMoving"
+			],
+			[
+				"del",
+				"delta"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"app",
+				"applyOrientation"
+			],
+			[
+				"VP_L",
+				"VP_LOOKAT_FACTOR_Y"
+			],
+			[
+				"VP_O",
+				"VP_LOOKAT_FACTOR_X"
+			],
+			[
+				"res",
+				"resetView"
+			],
+			[
+				"pos",
+				"posStr"
+			],
+			[
+				"appl",
+				"applyX3DZoom"
+			],
+			[
+				"rig",
+				"right_touchstart"
+			],
+			[
+				"is",
+				"isExchange"
+			],
+			[
+				"lo",
+				"lockPanZoom"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"ac",
+				"AcDict"
+			],
+			[
+				"flig",
+				"flight_no"
+			],
+			[
+				"fl",
+				"flight_no"
+			],
+			[
+				"pare",
+				"parentNode"
+			],
+			[
+				"focu",
+				"focusInfo"
+			],
+			[
+				"he",
+				"heading"
+			],
+			[
+				"spd",
+				"speed"
+			],
+			[
+				"ed",
+				"editCell"
+			],
+			[
+				"htm",
+				"innerHTML"
+			],
+			[
+				"hi",
+				"highlight"
+			],
+			[
+				"editS",
+				"editScroll"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"el",
+				"elem"
+			],
+			[
+				"P",
+				"POINTER_OFFSET_Y"
+			],
+			[
+				"O",
+				"POINTER_OFFSET_X"
+			],
+			[
+				"TABLE",
+				"table"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"off",
+				"off_x"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"foc",
+				"focusCellEditElem"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"edi",
+				"editSpd"
+			],
+			[
+				"of",
+				"off_x"
+			],
+			[
+				"m",
+				"mymousedown"
+			],
+			[
+				"hold",
+				"holdDragStart"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"ck",
+				"click"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"the",
+				"the2dRadar"
+			],
+			[
+				"last",
+				"lastDist"
+			],
+			[
+				"c",
+				"clientX"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"box",
+				"boxCloseWhenInactiveWaitTime"
+			],
+			[
+				"clo",
+				"closeWhenInactiveWaitTime"
+			],
+			[
+				"cl",
+				"closeWhenInactive"
+			],
+			[
+				"fs",
+				"fsIFrame"
+			],
+			[
+				"key",
+				"keydown"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"boix",
+				"boxHeight"
+			],
+			[
+				"init",
+				"initRelated"
+			],
+			[
+				"C",
+				"cloudpdf"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"tes",
+				"test_pdf"
+			],
+			[
+				"pdf",
+				"pdf_page"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"close",
+				"closeAllBox"
+			],
+			[
+				"dom",
+				"domains"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/js/app.js",
+			"settings":
+			{
+				"buffer_size": 58228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/config/routes.coffee",
+			"settings":
+			{
+				"buffer_size": 587,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/partials/article.html",
+			"settings":
+			{
+				"buffer_size": 471,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/partials/home.html",
+			"settings":
+			{
+				"buffer_size": 767,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/coffee/viewModles/article.coffee",
+			"settings":
+			{
+				"buffer_size": 1251,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/coffee/services/remote/sample.coffee",
+			"settings":
+			{
+				"buffer_size": 1281,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/config/intro.coffee",
+			"settings":
+			{
+				"buffer_size": 140,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 5860,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/coffee/services/remote/base.coffee",
+			"settings":
+			{
+				"buffer_size": 1526,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 6754 files for \"BaseRemoteService\" (case sensitive)\n\nC:\\Users\\qiming\\phoenixqm\\chromium\\phoenixqm.github.io\\app\\js\\app.js:\n 1511  (function() {\n 1512    'use strict';\n 1513:   App.factory('BaseRemoteService', function(Config, Restangular, Util, $q, $timeout) {\n 1514:     var BaseRemoteService;\n 1515:     return BaseRemoteService = (function() {\n 1516:       function BaseRemoteService() {\n 1517          this.rest = Restangular.all('');\n 1518        }\n 1519  \n 1520:       BaseRemoteService.prototype.getCacheKey = function(method, param) {\n 1521          var classMatch, className;\n 1522          classMatch = /function\\s+(\\w+)\\(.*\\).*/.exec(this.constructor.toString());\n ....\n 1527        };\n 1528  \n 1529:       BaseRemoteService.prototype.getWithCache = function(method, param, func, timeout) {\n 1530          if (timeout == null) {\n 1531            timeout = 300;\n ....\n 1534        };\n 1535  \n 1536:       BaseRemoteService.prototype.doQuery = function(method, param, canceler) {\n 1537          var config;\n 1538          if (canceler && canceler.promise) {\n ....\n 1546        };\n 1547  \n 1548:       BaseRemoteService.prototype.doRenderMarkdown = function(method, param, canceler) {\n 1549          var config;\n 1550          if (canceler && canceler.promise) {\n ....\n 1558        };\n 1559  \n 1560:       BaseRemoteService.prototype.doQueryWithCache = function(method, param, canceler, timeout) {\n 1561          if (timeout == null) {\n 1562            timeout = 300;\n ....\n 1577        };\n 1578  \n 1579:       BaseRemoteService.prototype.mockResult = function(data, time) {\n 1580          var defer;\n 1581          if (time == null) {\n ....\n 1589        };\n 1590  \n 1591:       return BaseRemoteService;\n 1592  \n 1593      })();\n ....\n 1601      __extends = function(child, parent) { for (var key in parent) { if (__hasProp.call(parent, key)) child[key] = parent[key]; } function ctor() { this.constructor = child; } ctor.prototype = parent.prototype; child.prototype = new ctor(); child.__super__ = parent.prototype; return child; };\n 1602  \n 1603:   App.factory('SampleRemoteService', function(Restangular, BaseRemoteService) {\n 1604      var SampleRemoteService;\n 1605      return new (SampleRemoteService = (function(_super) {\n ....\n 1629        return SampleRemoteService;\n 1630  \n 1631:     })(BaseRemoteService));\n 1632    });\n 1633  \n 1634:   App.factory('BlogRemoteService', function(Restangular, BaseRemoteService) {\n 1635      var BlogRemoteService;\n 1636      return new (BlogRemoteService = (function(_super) {\n ....\n 1673        return BlogRemoteService;\n 1674  \n 1675:     })(BaseRemoteService));\n 1676    });\n 1677  \n\nC:\\Users\\qiming\\phoenixqm\\chromium\\phoenixqm.github.io\\app\\js\\coffee\\services\\remote\\base.coffee:\n    1  'use strict'\n    2: App.factory 'BaseRemoteService', (Config, Restangular, Util, $q, $timeout) ->\n    3:   class BaseRemoteService\n    4      constructor: ->\n    5        @rest = Restangular.all('')\n\nC:\\Users\\qiming\\phoenixqm\\chromium\\phoenixqm.github.io\\app\\js\\coffee\\services\\remote\\sample.coffee:\n    1  'use strict'\n    2: App.factory 'SampleRemoteService', (Restangular, BaseRemoteService) ->\n    3:   new class SampleRemoteService extends BaseRemoteService\n    4      constructor: ->\n    5        super()\n    .\n   20  \n   21  \n   22: App.factory 'BlogRemoteService', (Restangular, BaseRemoteService) ->\n   23:   new class BlogRemoteService extends BaseRemoteService\n   24      constructor: ->\n   25        super()\n\n21 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 3505,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/C/Demos/HTML5/ATMRI/RadarServer/public/js/interaction3d.js",
+			"settings":
+			{
+				"buffer_size": 52203,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/config/config.coffee",
+			"settings":
+			{
+				"buffer_size": 420,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 242,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/restangular/dist/restangular.js",
+			"settings":
+			{
+				"buffer_size": 47677,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/config.js",
+			"settings":
+			{
+				"buffer_size": 1411,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Install",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"install\t",
+				"Package Control: Install Package"
+			],
+			[
+				"fol",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 209.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/config",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/css",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/coffee",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/coffee/directives",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/coffee/services",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/coffee/services/remote",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/coffee/viewModles",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/lib",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/partials",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/partials/directive",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/bin"
+	],
+	"file_history":
+	[
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/coffee/viewModles/home.coffee",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/coffee/services/remote/base.coffee",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/config/config.coffee",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/coffee/services/remote/sample.coffee",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/coffee/viewModles/home.js",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/app.js",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/js/interaction3d.js",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/node_modules/grunt/node_modules/findup-sync/node_modules/lodash/dist/lodash.js",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/components/lodash/lodash.js",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/index.html",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/partials/home.html",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/local.js",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/config.js",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/config/routes.coffee",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/app/js/coffee/main.coffee",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/README.md",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/bin/travis-deploy-ghpages.sh",
+		"/C/Users/qiming/phoenixqm/chromium/phoenixqm.github.io/.gitignore",
+		"/C/Users/qiming/phoenixqm/chromium/hexo-theme-next/layout/index.swig",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/libs/glTF-parser.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/chapter-09/11-morph-targets-manually.html",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/lib/cuon-matrix.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/Appendix/CoordinateSystem_viewVolume.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch10/RoundedPoints.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch10/RotatingTriangle_contextLost.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch10/Fog_w.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch10/BlendedCube.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch10/FramebufferObject.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch10/FramebufferObjectv2.html",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/chapter-09/02-selecting-objects.html",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/chapter-09/03-animation-tween.html",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch09/MultiJointModel.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch10/PickObject.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/Appendix/CoordinateSystem.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch05/TexturedQuad.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch08/LightedCube.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch07/LookAtTrianglesWithKeys_ViewVolume.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch07/PerspectiveView.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch07/PerspectiveView_mvpMatrix.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch07/Zfighting.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch07/LookAtTriangles.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch07/HelloCube_singleColor.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch02/HelloPoint1.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch05/MultiAttributeColor.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch05/ColoredTriangle.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch04/RotatingTriangle.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch02/HelloPoint2ex.html",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch03/HelloQuad.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch02/ClickedPoints.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch03/MultiPoint.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch03/HelloQuad_FAN.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch03/HelloTriangle.js",
+		"/C/Users/qiming/phoenixqm/chromium/learning-threejs/WebGL/ch02/HelloPoint2ex.js",
+		"/C/Demos/HTML5/InfoView2Generic_dev/node_getLinkInfo.js",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/CSS_Mastery/chapter6/dropdowns.htm",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/CSS_Mastery/chapter6/horizontal-nav.htm",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/libs/InfoView2/js/ForceView.js",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/libs/InfoView2/js/widgets.js",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/test_block.html",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/libs/InfoView2/css/ForceViewEdit.css",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/libs/InfoView2/js/MapView.js",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/libs/InfoView2/js/View.js",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/js/main.js",
+		"/C/Demos/HTML5/InfoView2Generic_dev/server/server.js",
+		"/C/Demos/HTML5/InfoView2Generic_dev/node_modules/eventsource/example/sse-server.js",
+		"/C/Demos/HTML5/CertisCISCO/.git/config",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/libs/InfoView2/js/QAView.js",
+		"/Y/current/InfoLandWebApps/media_HouseofIT/datasets/HouseOfIT.json",
+		"/E/CS-Books/JavaScript/_phoenixqm/textplay.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-11/listing-11.3.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-11/listing-11.2.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-11/listing-11.1.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-9/listing-9.8.html",
+		"/E/CS-Books/JavaScript/_phoenixqm/testSubClass.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-10/listing-10.1.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/scripts/base2-p.js",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-10/listing-10.5.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-10/listing-10.4.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-10/tmpl.js",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-9/listing-9.7.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/scripts/base2.js",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-7/listing-7.10.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-7/listing-7.16.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-8/delays.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-8/listing-8.3.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-8/listing-8.4.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-8/listing-8.5.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-9/listing-9.3.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-9/listing-9.4.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/scripts/assert.js",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-9/listing-9.6.html",
+		"/C/Users/qiming/phoenixqm/chromium/ninja-code/chapter-8/listing-8.1.html",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/index.html",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/libs/boxManager/boxManager.js",
+		"/C/Demos/HTML5/InfoView2Generic_dev/media/datasets/_test_dev.json",
+		"/C/Demos/HTML5/InfoView2Generic_dev/public/libs/InfoView2/js/BlockView.js",
+		"/C/Users/qiming/phoenixqm/chromium/src/ppapi/api/ppb_mouse_lock.idl",
+		"/C/Users/qiming/phoenixqm/chromium/src/ppapi/api/ppb_audio.idl",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/css/surface3dv2.css",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/js/radar3d.js",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/map3D.html",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/css/radar3d.css",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/css/canvas.css",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/css/radar2d.css",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/surface3dv2.html",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/js/surface3dv2.js",
+		"/C/Users/qiming/phoenixqm/chromium/webkit-master/Source/WebCore/css/parser/CSSParser.cpp",
+		"/C/Users/qiming/phoenixqm/chromium/webkit-master/Source/WebCore/css/makegrammar.pl",
+		"/C/Users/qiming/phoenixqm/chromium/webkit-master/Source/WebCore/Makefile",
+		"/C/Users/qiming/phoenixqm/chromium/webkit-master/Source/WebCore/css/makeprop.pl",
+		"/C/Users/qiming/AppData/Local/Temp/7zO0EC1F5AB/WebEventFactory.cpp",
+		"/C/Users/qiming/AppData/Local/Temp/7zO0EC298CA/ewebkit2.pc.in",
+		"/C/Users/qiming/AppData/Local/Temp/7zO0EC42E08/webkit.py",
+		"/C/Users/qiming/AppData/Local/Temp/7zO0ECA6DE8/do-webcore-rename",
+		"/F/CS-Books/Algorithm/ACM-phoenixqm/code-201608/GraphInCpp/Graph.cpp",
+		"/F/CS-Books/Algorithm/ACM-phoenixqm/code-201608/循环节.cpp",
+		"/F/CS-Books/Algorithm/ACM-phoenixqm/leetcode/leetcode-025. Reverse Nodes in k-Group.cpp",
+		"/F/CS-Books/Algorithm/ACM-phoenixqm/leetcode/leetcode-023. Merge k Sorted Lists.cpp",
+		"/F/CS-Books/Algorithm/ACM-phoenixqm/code-201608/SimNode.cpp",
+		"/F/CS-Books/Algorithm/ACM-phoenixqm/code-201608/IndirectList.cpp",
+		"/F/CS-Books/Algorithm/ACM-phoenixqm/code-201608/WinnerTree.cpp",
+		"/C/Demos/HTML5/ATMRI/RadarServer/server.js",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/surface3d.html",
+		"/Y/current/InfoLandWebApps/media_SPRING/datasets/Spring.json",
+		"/Y/current/InfoLandWebApps/media_EDB/datasets/EDB.json",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/js/radar3d_qm.js",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/map3d.html",
+		"/C/Demos/HTML5/ATMRI/RadarServer/public/js/radar2d.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\qiming\\phoenixqm\\BeeFramework",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Config",
+			"BaseRemoteService",
+			"'blog'",
+			"martin-liu.github.io",
+			"HttpR",
+			"Http",
+			"HttpRe",
+			"params",
+			"renderMarkdown",
+			"doRenderMarkdown",
+			"post",
+			"post(",
+			".post",
+			".post =",
+			"post = ",
+			"doRenderMarkdown",
+			"martin-liu",
+			"labels",
+			"page",
+			"renderMarkdown",
+			"doRenderMarkdown",
+			"doQuery",
+			"queryBlogList",
+			"_.",
+			"bindView",
+			"processBlogs",
+			"1337",
+			"queryBlogList",
+			"BaseRemoteService",
+			"Restangular",
+			"BlogR",
+			"doQuery",
+			"HomeViewModel",
+			"SampleRemoteService",
+			"RemoteService",
+			"HomeViewModel",
+			"blog.number",
+			"sample/test",
+			"HomeViewModel",
+			"routes.cson",
+			"HomeCtrl",
+			"routeProvider",
+			"{\n",
+			"BlogRemoteService",
+			"routeProvider",
+			"defContextName",
+			"isBrowser",
+			"requirejs",
+			"contexts",
+			"newContext",
+			"getOwn",
+			"defContextName",
+			"jsExtRegExp",
+			"newContext",
+			"build",
+			"drag",
+			"touchstart",
+			"touch",
+			"$apply",
+			"apply",
+			"init",
+			"physi",
+			"texture",
+			"processResourceDelegate",
+			"_loadStream",
+			"_handleRequest",
+			"Cesium_Air",
+			"XMLHttpRequest",
+			".uri",
+			".path",
+			"Ces",
+			"descriptions",
+			"_resolvePathsForCategories",
+			"_Air",
+			"_resolvePathsForCategories",
+			"resolvePathIfNeeded",
+			"protoc",
+			"Animation",
+			"morphTargets",
+			"morphTargetInfluences",
+			"websocketPort",
+			"TrackballControls",
+			"tween",
+			"bindTexture",
+			"initTextures",
+			"drawTexturedObject",
+			"drawTexturedCube",
+			"texture",
+			"draw",
+			"initTextures",
+			"initFramebufferObject",
+			"initTextures",
+			"initFramebufferObject",
+			"bindFramebuffer",
+			"fbo",
+			"webglcontextlost",
+			"checkFace",
+			"u_PickedFace",
+			"u_Clicked",
+			"readPixels",
+			"getWebGLContext",
+			"main",
+			"initArrayBufferForLaterUse",
+			"g_baseBuffer",
+			"drawSegment",
+			"a_Po",
+			"a_Poi",
+			"drawBox",
+			"initArrayBuffer",
+			"u_ModelMatrix",
+			"vpMatrix",
+			"currentAngle",
+			"animate",
+			"newAngle",
+			"a_Color",
+			"projMatrix",
+			"u_ViewMatrix",
+			"texture",
+			"createTexture",
+			"drawingBufferWidth",
+			"concat",
+			"u_FragColor",
+			"a_Position",
+			"domWindow",
+			"homeURL",
+			"location",
+			"homeURL",
+			"domWindow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 936.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/config/routes.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/partials/article.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/partials/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								591
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/js/coffee/viewModles/article.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/js/coffee/services/remote/sample.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								998,
+								998
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/config/intro.coffee",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3527,
+								3527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1896.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/js/coffee/services/remote/base.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								822,
+								822
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3505,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										199,
+										216
+									],
+									[
+										286,
+										303
+									],
+									[
+										323,
+										340
+									],
+									[
+										379,
+										396
+									],
+									[
+										485,
+										502
+									],
+									[
+										728,
+										745
+									],
+									[
+										925,
+										942
+									],
+									[
+										1120,
+										1137
+									],
+									[
+										1324,
+										1341
+									],
+									[
+										1529,
+										1546
+									],
+									[
+										1704,
+										1721
+									],
+									[
+										2128,
+										2145
+									],
+									[
+										2319,
+										2336
+									],
+									[
+										2425,
+										2442
+									],
+									[
+										2610,
+										2627
+									],
+									[
+										2791,
+										2808
+									],
+									[
+										2871,
+										2888
+									],
+									[
+										3134,
+										3151
+									],
+									[
+										3203,
+										3220
+									],
+									[
+										3345,
+										3362
+									],
+									[
+										3412,
+										3429
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Demos/HTML5/ATMRI/RadarServer/public/js/interaction3d.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/config/config.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/components/restangular/dist/restangular.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47677,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18602,
+								18606
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14773.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "app/js/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "githubIO.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"read-ca",
+				"git\\read-cache.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
