@@ -1,16 +1,26 @@
 
 
 .navbar-default .navbar-nav > li > a {
-    font-family: arial;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    text-transform: none;
     font-size: 14px;
 }
 
 
 #secondary .widget > h3 {
-    font-family: arial;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    text-transform: none;
     font-size: 16px;
 }
 
 #doubanlist td {
     padding: 5px;
+}
+#secondary .widget a {
+    color: #333333;
+
+}
+#secondary .widget a:hover {
+    color: #DA4453;
+
 }
