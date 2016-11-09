@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Three.js源代码分析：JavaScript模块化</title>
+    <title>这里是标题</title>
     <meta name="description" content="">
     <!--<link rel="stylesheet" href="/assets/css/bootstrap.min.css">-->
     <!--<link rel="stylesheet" href="/assets/css/font-awesome.min.css">-->
@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="stylesheet" href="/assets/css/syntax-highlight.css">
-
+    <link rel="stylesheet" href="/assets/css/style-my.css">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -25,9 +25,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
     <link rel="stylesheet" href="/assets/css/proj-layout.css">
-    <script src="/assets/js/swiftype.js"></script>
+
     <script src="https://cdn.rawgit.com/showdownjs/showdown/1.4.4/dist/showdown.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+    <script src="/assets/js/util.js"></script>
 
     <!--<script src="/assets/js/jquery.js"></script>-->
     <!--<script src="/assets/js/modernizr.min.js"></script>-->
@@ -52,7 +53,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li><a href="/about.html">About</a></li>
                     <li><a href="/list.html">Posts</a></li>
                     <li><a href="https://github.com/phoenixqm" target="_blank">Github</a></li>
-                    <!-- <li><a href="http://phoenixqm.lofter.com/" target="_blank">Lofter</a></li> -->
                 </ul>
             </div>
         </div>
@@ -65,34 +65,132 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <br>
         <div class="well">
             <header class="page-header">
-                <h1>Three.js源代码分析：JavaScript模块化</h1>
-                <p class="post-meta">Oct 5, 2016</p>
+                <h1>这里是标题</h1>
+                <p class="post-meta">这里是时间</p>
             </header>
 
-            <article><p> 以Three.js项目为例学习JavaScript的原型链和模块化方法。 </p>
-
-
-
+            <article id="markdowngen">
+                这里是正文
             </article>
+
+            <!-- <article><p>这里是摘要</p></article> -->
         </div>
     </div><!--#post-content-->
 
     <div id="ds-comment" class="container">
         <!-- 多说评论框 start -->
-            <div class="ds-thread" data-thread-key="threejs-module" data-title="Three.js源代码分析：JavaScript模块化" data-url="http://phoenixqm.github.io/posts/threejs-module.html"></div>
+            <div class="ds-thread" data-thread-key="xxxx-xxxx" data-title="这里是标题"
+            data-url="http://phoenixqm.github.io/post.html?key=xxxx-xxxx"></div>
         <!-- 多说评论框 end -->
         <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
         <script type="text/javascript">
-        var duoshuoQuery = {short_name:"phoenixqm"};
-            (function() {
-                var ds = document.createElement('script');
-                ds.type = 'text/javascript';ds.async = true;
-                ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-                ds.charset = 'UTF-8';
-                (document.getElementsByTagName('head')[0]
-                 || document.getElementsByTagName('body')[0]).appendChild(ds);
-            })();
-            </script>
+
+var duoshuoQuery = {short_name:"phoenixqm"};
+
+
+$(document).ready(function() {
+
+    var obj = {};
+    var key = getURLParameter("key");
+
+
+
+    $.ajax({
+        type: "GET",
+        url: "posts/_the_list.txt",
+        dataType: "text",
+        success: function(data) {
+            processData(data);
+            fillPost();
+
+            initDoushuo();
+        }
+    });
+
+    // Let's process the data from the data file
+    function processData(data) {
+        var lines = data.split(/\r\n|\n/);
+
+        var headings = lines[0].split('|');
+        for (var i = 0; i < headings.length; i++) {
+            headings[i] = trim(headings[i]);
+        }
+
+        for (var j = 1; j < lines.length; j++) {
+
+            var values = lines[j].split('|');
+            if (trim(values[0]) == key) {
+                for (var k = 0; k < values.length; k++) {
+                    obj[headings[k]] = trim(values[k]);
+                }
+                break;
+            }
+
+        }
+
+        console.log(obj);
+
+    }
+
+
+    function fillPost(){
+
+        var post = $("#post-content");
+        var ds = $("#ds-comment");
+
+        post.attr("id", "_item_" + obj.key);
+        post.find("header.page-header > h1").html(obj.title);
+        post.find("p.post-meta").html(obj.time);
+
+        // 正文页面不显示摘要
+        // post.find("article > p").html(obj.summary);
+
+        ds.find("div.data-thread").attr("data-thread-key", obj.key);
+        ds.find("div.data-thread").attr("data-title", obj.title);
+        ds.find("div.data-thread").attr("data-url", "http://phoenixqm.github.io/post.html?key=" + obj.key);
+
+        renderMarkdown();
+    }
+
+    function renderMarkdown(){
+        var converter = new showdown.Converter();
+
+        var article = document.getElementById("markdowngen");
+        $.ajax({
+          url: "posts/"+obj.key+".md",
+          beforeSend: function( xhr ) {
+            // xhr.overrideMimeType( "text/plain; charset=x-user-defined" );
+          }
+        })
+        .done(function( data ) {
+          if ( console && console.log ) {
+            console.log(data);
+            var html = converter.makeHtml(data);
+            article.innerHTML = html;
+          }
+        });
+
+    }
+
+    function initDoushuo(){
+
+        (function() {
+            var ds = document.createElement('script');
+            ds.type = 'text/javascript';ds.async = true;
+            ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+            ds.charset = 'UTF-8';
+            (document.getElementsByTagName('head')[0]
+             || document.getElementsByTagName('body')[0]).appendChild(ds);
+        })();
+
+    }
+
+
+});
+
+
+
+        </script>
         <!-- 多说公共JS代码 end -->
     </div><!--#ds-comment-->
 
