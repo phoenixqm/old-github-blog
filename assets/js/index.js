@@ -8,7 +8,7 @@ $(document).ready(function() {
 
     $.ajax({
         type: "GET",
-        url: "posts/_the_list.txt",
+        url: "posts/post_list.txt",
         dataType: "text",
         success: function(data) {
             processData(data);
