@@ -140,6 +140,7 @@ $(document).ready(function() {
 
         post.attr("id", "_item_" + obj.key);
         post.find("header.page-header > h1").html(obj.title);
+        $(document).attr("title", obj.title);
         post.find("p.post-meta").html(obj.time);
 
         // 正文页面不显示摘要
