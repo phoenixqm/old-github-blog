@@ -169,7 +169,7 @@ apache2安装之后默认已经是开机自动启动。``` ls /etc/init.d/```可
 照猫画虎新建webapp1.service配置文件：
 
 ```sh
-$ cd /etc/systemd/system 
+$ cd /etc/systemd/system
 $ sudo vim /lib/systemd/system/webapp1.service
 ```
 注意webapp1.service文件创建的路径，其内容如下：
@@ -199,8 +199,8 @@ WantedBy=multi-user.target
  - ```ExecStart```中的路径必须是绝对路径，因为systemd不是以普通用户身份运行的，
  不可以使用```~/```的相对路径。
  - 最后```WantedBy=multi-user.target```是必须的，否则后面```systemctl enable webapp1```不能成功。
- 
- 
+
+
 然后加载配置文件并启动服务：
 
 ```sh
