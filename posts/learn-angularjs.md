@@ -21,6 +21,9 @@ AngularJS项目的结构组织很清楚，不需要多说。
  - [Angular服务深度剖析（四）](http://www.aliued.com/?p=3195)
  - [Angular路由深入浅出（五）](http://www.aliued.com/?p=99)
 
+### AngularJS官方和非官方社区
+ - [AngularJS Developer Guide](https://docs.angularjs.org/guide)
+ - [Angular中文社区](http://angularjs.cn/)
 
 ### 理解AnguarJS中的模板编译
 
@@ -46,6 +49,10 @@ AngularJS项目的结构组织很清楚，不需要多说。
 ### 理解AnguarJS中的Provider
 
 TODO
+
+
+### 前人的经验总结
+ - Angularjs开发一些经验总结 by 破狼(http://jingpin.jikexueyuan.com/article/3884.html)
 
 ### 参考博文：
   - [理解AnguarJS中的模板编译](http://log4think.com/understanding_angularjs_template_compiling/)

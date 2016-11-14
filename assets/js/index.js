@@ -32,7 +32,13 @@ $(document).ready(function() {
                 obj[headings[k]] = trim(values[k]);
             }
 
-           A.push(obj);
+
+            if (obj.key.indexOf("*") == 0) {
+                // it is a draft now
+                // A.push(obj); // not show in list
+            } else {
+                A.push(obj);
+            }
 
         }
 
